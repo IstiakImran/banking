@@ -1,0 +1,54 @@
+.header-h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(177, 248, 224);
+    height: 100px;
+}
+.header-h1 h1{
+    color: rgb(226, 69, 69);
+    font-size: 55px;
+}
+.header-h1 h1 span{
+    color: blueviolet;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(209, 250, 229);
+    height: 400px;
+}
+.form h3{
+    font-size: 35px;
+}
+.form input{
+    height: 30px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 2px 0;
+}
+.form button{
+    color: rgb(238, 71, 49);
+    height: 35px;
+    width: 85px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-size: large;
+    border: none;
+
+}
+.form form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
